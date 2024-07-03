@@ -1,3 +1,4 @@
+![logo](https://github.com/bipin9533/bipin9533/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hey, i am Bipin Kumar</h1>
 <h3 align="center">A passionate fronted developer</h3>
 <img align="right"alt="coding"width="400"src="![image](https://github.com/bipin9533/bipin9533/assets/146333522/0c2fa504-e8c0-422d-b73c-2033382c70ba)">
